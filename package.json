@@ -1,0 +1,22 @@
+{
+  "name": "simple-feature-section-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pogo182028/Simple-Feature-Section.git"
+  },
+  "author": "Dunston Madariaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pogo182028/Simple-Feature-Section/issues"
+  },
+  "homepage": "https://github.com/Pogo182028/Simple-Feature-Section#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
