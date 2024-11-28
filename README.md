@@ -40,7 +40,8 @@
 
 ### What I learned
 
-This challenge helped me learn about flex-wrap.
+This challenge helped me learn about flex-wrap. 
+I also added a hover to each section and that made me realize that I need to learn more about transitions.
 
 ### Built with
 
